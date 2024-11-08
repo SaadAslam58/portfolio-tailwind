@@ -27,7 +27,7 @@ if (isRouting) {
 }
 
 
-},[isRouting])
+},[isRouting, path])
 
 return (
     <div
