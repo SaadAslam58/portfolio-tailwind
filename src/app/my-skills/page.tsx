@@ -5,7 +5,6 @@ import 'swiper/css'
 import { SkillData } from '@/constants';
 import Image from 'next/image';
 import {Autoplay} from 'swiper/modules';
-import { image } from 'framer-motion/client';
 const page = () => {
   return (
     <div 

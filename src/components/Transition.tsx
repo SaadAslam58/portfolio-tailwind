@@ -1,7 +1,6 @@
 'use client';
 import React from 'react'
 import {animate, delay, motion} from 'framer-motion'
-import { div } from 'three/webgpu';
 const TransitionVarients = {
 initial: {
     y:'100%',
