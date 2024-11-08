@@ -17,7 +17,7 @@ const page = () => {
             </span>
           </h1>
           <p className="text-gray-200 hidden md:block">
-          Hello Everyone! I'm Saad, a web developer and video editor. I specialize in creating engaging and user-friendly websites.
+          Hello Everyone! I am Saad, a web developer and video editor. I specialize in creating engaging and user-friendly websites.
           </p>
           <div className="flex-col md:flex-row hidden md:flex gap-3">
             <Link
